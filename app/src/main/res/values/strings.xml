@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">COMP_2160_Project</string>
+    <string name="btnPlanetData">Planet Data</string>
 </resources>
